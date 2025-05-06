@@ -1,0 +1,72 @@
+<h2 class="student-report-title">STUDENT REPORT</h2>
+
+<div class="table-container">
+  <table border="3">
+    <thead>
+      <tr>
+        <th>TERM I</th>
+        <th>TERM II</th>
+        <th>TERM III</th>
+      </tr>
+    </thead> 
+    <tbody>
+      <tr>
+        <td>
+          <table class="inner-table">
+            <tr>
+              <th>TEST</th>
+              <th>EXAM</th>
+              <th>TOTAL</th>
+            </tr>
+            <tr>
+              <td>40</td>
+              <td>50</td>
+              <td>100</td>
+            </tr>
+            <tr>
+              <td colspan="3">1 TO 20</td>
+            </tr>
+          </table>
+        </td>
+        <td>
+          <table class="inner-table">
+            <tr>
+              <th>TEST</th>
+              <th>EXAM</th>
+              <th>TOTAL</th>
+            </tr>
+            <tr>
+              <td>30</td>
+              <td>40</td>
+              <td>70</td>
+            </tr>
+            <tr>
+              <td colspan="3">8 TO 20</td>
+            </tr>
+          </table>
+        </td>
+        <td>
+          <table class="inner-table">
+            <tr>
+              <th>TEST</th>
+              <th>EXAM</th>
+              <th>TOTAL</th>
+            </tr>
+            <tr>
+              <td>40</td>
+              <td>42</td>
+              <td>82</td>
+            </tr>
+            <tr>
+              <td colspan="3">7 TO 20</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="signature">
+  <p>HEADMASTER SIGNATURE</p>
+</div>
